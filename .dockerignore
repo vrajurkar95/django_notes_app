@@ -1,0 +1,11 @@
+# Ignore database files
+data/
+**/*.ibd
+**/*.dblwr
+**/#*
+**/mysql/*
+
+# Ignore Python cache, logs, etc. (optional)
+__pycache__/
+*.log
+*.pyc
